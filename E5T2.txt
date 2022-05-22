@@ -1,0 +1,7 @@
+1. 
+a. Cfripper, analyzer for AWS cloudformation templates.
+b. Clair, tool for analyzing containeer images for vulnerabilities. 
+c. Amazon inspector, asses application for vulnerabilities and exposure.
+
+2. 
+detect poor pasword rules, accounts w/o MFA and violations of least priveledge. 

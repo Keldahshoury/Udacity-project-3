@@ -1,0 +1,2 @@
+1. recipe buckets allow traffic from internet to all ports
+2. the s3 Bucket is not encrypted meaning it is accessible to everyone.

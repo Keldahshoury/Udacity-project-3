@@ -1,0 +1,6 @@
+1. Move the web application instance to a private subent and use an internet gateway(NAT gateway)
+also AWS sheild.
+2.yes, only for useres that do not have access
+3.no, the encryptioin will only encrypt data that is put in the 
+bucket after the default encryption is enabled.
+4. It would reset the settings to the original settings from the template

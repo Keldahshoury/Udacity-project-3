@@ -1,0 +1,3 @@
+To remidiate vulnerablities in the EC2 instances related to the account 
+the EC2 instances should use Metadata Service version 2 and they should not have a public ip address.
+also the s3 buckets should have serverside encryption.

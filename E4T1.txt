@@ -1,0 +1,4 @@
+1. disable public acceses to the instances, the security groups should not allow all access through all ports - need to change the security groups to restrict access through all ports,
+ enable a hardware MFA to add an extra layer of protection on top of username and password. 
+
+2. We could prevent access to sensitive data by putting an encryption that requires deifferent credentials to access the encrypted data.
